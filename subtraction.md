@@ -7,3 +7,7 @@ Example:
 
 If subtracting a negative:
 7 - (-3) = 7 + 3 = 10
+
+
+issue fiz:
+30 - 40 = -10
